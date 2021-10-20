@@ -3,15 +3,16 @@
 ---
 ## Overview:
 ---  
-Using Python and Pandas to create a data frame that group fare data by city type, (Urban, Suburban, Rural).  
+Using Python and Pandas to create a data frame than group fare data by city type, (Urban, Suburban, Rural). 
+Then used madplotlibs to graph the weekly fare by city type for the months of JanApr, 2019 
 
 ## Results: 
 ---
-Using PyBer ride and city data, I imported each csv file to create one merged Pandas data frame to complete the analysis.  
-I then grouped the data by city type before calculating the average fare.  There are more drivers in the Urban city types 
-which can do more rides per day; however the rides are shorter and the average fare per driver is only $16.57.  There are 
-less drivers within the Rural areas, however, they drives are further in length so the average fare per driver is 
-higher, $55.49  
+Using PyBer ride and city data, I imported each csv file to create one merged Pandas data frame to complete the 
+analysis.  I then grouped the data by city type before calculating the average fare.  There are more drivers 
+in the Urban city types which can do more rides per day; however the rides are shorter and the average fare per 
+driver is only $16.57.  There are less drivers within the Rural areas, however, they drives are further in length 
+so the average fare per driver is higher, $55.49  
 
 ![Average Fare](/analysis/PyBer_avg_fare.PNG)
 
