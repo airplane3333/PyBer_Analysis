@@ -1,4 +1,4 @@
-# PyBer_Analysis: Analysis of PyBer ride share company
+# PyBer Analysis: Analysis of PyBer ride share company
 
 ---
 ## Overview:
@@ -12,14 +12,14 @@ I then grouped the data by city type before calculating the average fare.  There
 which can do more rides per day, however the rides are shorter and the average fare per driver is only $16.57.  There are less drivers 
 within the Rural areas, however, they drives are further in lenght so the average fare per driver is higher, $55.49  
 
-![Average Fare][/analysis/PyBer_avg_fare.PNG]
+![Average Fare](/analysis/PyBer_avg_fare.PNG)
 
 Extrapolating the Pyber data into weekly summary's and using data for the months of January - April, you can see the difference in 
 avaerge fare for the given timeframe.  Urban drivers have more rides per week which results in higher average fare per week, with 
 approximetally 10 times higher average fare per week than Rural drivers.   
 
-![PyBer Fare Summary]["analysisPyber_fare_summary.png"]
----
+![PyBer Fare Summary](/analysis/Pyber_fare_summary.png)
+
 ## Summary: 
 ---
 With the average fare per driver being lower in the Urban areas than Rural, consider moving some of the Urban drivers to the Rural areas.  
